@@ -1,2 +1,4 @@
 datos
 examen_evalua_env
+*.ipynb
+__pycache__
